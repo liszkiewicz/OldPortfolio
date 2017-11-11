@@ -1,21 +1,20 @@
 # site
-title: Louie
+title: Adam Sulzdorf-Liszkiewicz
 baseurl: "/louie"
-url: "http://lily.work"
+url: "http://liszkiewicz.github.io"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: Louie
+header: Adam Sulzdorf-Liszkiewicz, Selected Work (2007-2018)
 desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+  Adam is the Chief Operations Officer at RUST LTD. He currently teaches in the Interactive Media and Games Division of the School of Cinematic Arts at the University of Southern California.
 
 # posts
 date_format: "%Y"
-post_title: Story
+post_title: Project Title
 post_date: Year
-post_cat: Genre
+post_cat: Category
 
 # post detail
 prev-next: true

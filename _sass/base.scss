@@ -2,8 +2,8 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
-$inconsolata:       'Inconsolata', monospace;
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700');
+$roboto_mono:       'Roboto Mono', monospace;
 $font__size:        14px;
 $font__weight:      400;
 $font__line-height: 1.5;
@@ -13,6 +13,9 @@ $color__black:      #000000;
 $color__gray:       #eeeeee;
 $color__beige:      #f8f8f1;
 $color__yellow:     #fefeca;
+$color__rust:       #9c351b;
+$color__white:      #ffffff;
+$color__heidi:      #C4FDF1;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
@@ -46,7 +49,7 @@ a {
   text-decoration: underline;
 
   &:hover {
-    color: $color__black;
+    color: $color__rust;
   }
 }
 
@@ -60,8 +63,8 @@ body {
   width: 100%;
   margin: 25px 0;
   padding: 0;
-  background: $color__beige;
-  font-family: $inconsolata;
+  background: $color__heidi;
+  font-family: $roboto_mono;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
