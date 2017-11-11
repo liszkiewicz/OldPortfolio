@@ -1,6 +1,6 @@
 # site
 title: Adam Sulzdorf-Liszkiewicz
-baseurl: "/liszkiewicz.github.io"
+baseurl: 
 url: "http://liszkiewicz.github.io"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
