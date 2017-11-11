@@ -50,6 +50,14 @@
   width: auto;
 }
 
+.row__date {
+  text-align: center;
+}
+/*
+.row__cat {
+  text-align: right;
+}
+*/
 .row__cat {
   position: relative;
   margin-left: 10px;
@@ -77,6 +85,7 @@
       * {
         text-decoration: underline;
         cursor: pointer;
+        background-color: $color__rust;
       }
 
       .row__active {
