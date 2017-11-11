@@ -54,6 +54,13 @@ a {
   }
 }
 
+li.row__post {
+  &:hover {
+    color: $color__heidi;
+    background-color: $color__rust;
+  }
+}
+
 // layout
 html {
   overflow-x: hidden;

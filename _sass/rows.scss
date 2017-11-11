@@ -121,13 +121,6 @@
 }
 
 @include media-query($on-palm) {
-  .row__post {
-      &:hover {
-      * {
-        text-decoration: underline;
-        cursor: pointer;
-        background-color: $color__rust;
-      }}}
 
   .row__cols,
   .row__post {
