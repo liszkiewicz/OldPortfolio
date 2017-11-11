@@ -4,6 +4,7 @@ baseurl: ""
 url: "http://liszkiewicz.github.io"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
+theme: louie
 
 # bio
 header: Adam Sulzdorf-Liszkiewicz, Selected Work (2007-2018)
