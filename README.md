@@ -1,12 +1,3 @@
-# Louie
-[![Gem Version](https://badge.fury.io/rb/louie.svg)](https://badge.fury.io/rb/louie)
-
-A jekyll portfolio generator (that looks awesome). Louie is free, lightweight, and customizable as a blog, archive, or portfolio.
-
-![Home](screenshot.png)
-![Home with hover](screenshot2.png)
-![Post](screenshot3.png)
-
 ## Installation
 Add this line to your Jekyll site's Gemfile:
 
@@ -94,6 +85,8 @@ prev-next: true
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 ## Credit
+Original Jekyll theme created by [Lillian Chen](http://lily.work/).
+
 Stories created and collected by [Story Bytes](http://www.storybytes.com/view-length/0256-words/index-0256.html).
 
 Images collected by [Unsplash](https://unsplash.com/)
